@@ -1,10 +1,11 @@
-#include<stdio.h>
-#include<stdlib.h>
-#include<time.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 /**
  * main - Entry
- * Return -Always zero
+ * Return - Always 0 (Success)
  */
+
 int main(void)
 {
 	int n;
@@ -16,15 +17,28 @@ int main(void)
 
 		if (a > 5)
 		{
+
 		printf("Last digit of %d is %d and is greater than 5\n", n, a);
+
 		}
+
 		else if (a == 0)
+
 		{
+
 		printf("Last digit of %d is %d and is 0\n", n, a);
+
 		}
+
 		else
+
 		{
+
+
+
 		printf("Last digit of %d is lessbthan 6 and nort 0\n", n, a)
+
 		}
+
 		return (0);
-		}
+}

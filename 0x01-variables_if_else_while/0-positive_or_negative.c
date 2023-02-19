@@ -1,9 +1,9 @@
-#include<stidlib.h>
-#include<stidio>
-#include<time.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <time.h>
 /**
- * main -Determine if a num is posutive or negative or zero.
- * Return : Always zero
+ * main - Entry
+ * Return: Always 0 (Success)
  */
 
 int main(void)
