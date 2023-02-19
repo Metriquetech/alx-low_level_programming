@@ -12,8 +12,8 @@ int main(void)
 	int a;
 
 	srand(time(0));
-	n = rand (0 - RAND_MAX / 2);
-		a = n % 10;
+	n = rand(0 - RAND_MAX / 2;
+		a = n % 10
 
 		if (a > 5)
 		{
@@ -36,7 +36,7 @@ int main(void)
 
 
 
-		printf("Last digit of %d is lessbthan 6 and nort 0\n", n, a);
+		printf("Last digit of %d is lessbthan 6 and nort 0\n", n, a)
 
 		}
 
