@@ -2,7 +2,7 @@
 /**
  * print_alphabet - Print alphabet
  */
-void print_alphabet(void);
+void print_alphabet(void)
 {
 	char letter;
 
